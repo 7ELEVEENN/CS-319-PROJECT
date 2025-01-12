@@ -1,4 +1,4 @@
-# Educational Keylogger Project
+# CS 319 - Information Assurance & Security Midterm Project
 
 ## ⚠️ Educational Purposes Only
 This project was developed as our midterm project for Information Assurance & Security course to demonstrate security concepts and potential vulnerabilities in computer systems. It is intended **strictly for educational purposes**. Using keyloggers or similar monitoring tools without explicit consent is illegal and unethical.
