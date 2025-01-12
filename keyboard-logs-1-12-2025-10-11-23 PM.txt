@@ -1,0 +1,6 @@
+Active Window: index.js - Venn Keylogger - Visual Studio Code
+q w e r t y u i o <SQUARE BRACKET OPEN> q w e q w a s <SPACE> <LEFT ALT> <TAB> Active Window: ● index.js - Midterm - Cursor
+<LEFT ALT> <TAB> Active Window: Task Switching
+<LEFT ALT> <TAB> Active Window: Venn Keylogger - File Explorer
+<LEFT ALT> <TAB> <LEFT ALT> <TAB> Active Window: Task Switching
+Active Window: index.js - Venn Keylogger - Visual Studio Code
